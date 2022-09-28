@@ -100,34 +100,14 @@ projects:
         # optional
         project_logo: https://4geeks.co/wp-con
         link: "#"
-        tagline: "A responsive website template
+        tagline: "A responsive website template"
       - title: Atom
         # optional
         project_logo: https://4geeks.co/wp-con
         link: "#"
-        tagline: "A comprehensive website tem
+        tagline: 
       - title: Delta
         # optional
         project_logo: https://4geeks.co/wp-con
         link: "#"
-        tagline: "A responsive Bootstrap one p
-
-skills:
-    toolset:
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-     
-     
+        tagline: "A responsive Bootstrap one "
