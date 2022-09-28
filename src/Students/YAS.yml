@@ -1,0 +1,133 @@
+template: "online-cv"
+skin: "berry"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Yasmin
+    last_name: Rodriguez
+    
+    # Define yourself in 4-5 words
+    motto: introvert, thats it
+    
+    # focus
+    focus: life
+    
+    # You have 1 paragraph to make a great imp
+    summary: |
+      Nothing so far 
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can pl
+    avatar:
+
+    # Contact Information
+    email:  #optional
+    phone: nophoneadded #optional
+    website: nowebadded #optional
+    linkedin: none #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to gene
+    github: yasRF
+    
+    twitter:  #optional
+    stack-overflow: # Number/Username, e.g. 12
+
+    # languages you speak, levels inculde: Nat
+    languages:
+      - idiom: English
+        level: Native
+
+
+    # Interests or hobies
+    interests:
+      - item: Movies
+
+      - item: Boxing
+
+      - item: Beach 
+
+# Your previous education
+education:
+    - degree: High School Diploma
+      university: Riverview High School
+      # optional
+      university_logo: 
+      time: 
+      details: |
+        
+# Your previous job experiences or voluntier
+experiences:
+    - role: 
+      time: 
+      company: 
+      # optional
+      company_logo: 
+      details: |
+        
+          
+    - role:  
+      time: 
+      company: 
+      # optional
+      company_logo: 
+      details: |
+        
+
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open 
+      section. Lorem ipsum dolor sit amet, con
+      Vestibulum et ligula in nunc bibendum fr
+    assignments:
+      - title: 
+        # optional
+        project_logo: 
+        link: 
+        tagline: 
+
+      - title: 
+        # optional
+        project_logo: 
+        link: 
+        tagline: 
+
+      - title: 
+        # optional
+        project_logo: https://4geeks.co/wp-con
+        link: "#"
+        tagline: "A responsive website template
+      - title: Atom
+        # optional
+        project_logo: https://4geeks.co/wp-con
+        link: "#"
+        tagline: "A comprehensive website tem
+      - title: Delta
+        # optional
+        project_logo: https://4geeks.co/wp-con
+        link: "#"
+        tagline: "A responsive Bootstrap one p
+
+skills:
+    toolset:
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+     
+     
